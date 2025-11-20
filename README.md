@@ -1,6 +1,7 @@
 # CIPS Intelligent Puzzle Solver
 
-*(Please replace `ruta/a/tu/imagen.png` with the relative path to your image file, e.g., `screenshots/main_interface.png`)*
+![1](./puzzle-solved.jpg)
+![2](./puzzle-img.jpg)
 
 ## 🇬🇧 English Version
 
@@ -46,6 +47,9 @@ Watch the application in action:
 ---
 
 ## 🇪🇸 Versión en Español
+
+![1](./puzzle-solved.jpg)
+![2](./puzzle-img.jpg)
 
 ### Descripción
 
